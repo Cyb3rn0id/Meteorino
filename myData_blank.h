@@ -2,8 +2,8 @@
  * 
  * METEORINO (c)2018 Giovanni Bernardo
  * 
- *  * https://www.settorezero.com
- * https://www.facebook.com/settorezero
+ * https://www.settorezero.com
+ * https://www.instagram.com/cyb3rn0id
  * 
  * Parameter List
  * Edit this file putting in your data
